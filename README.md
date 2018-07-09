@@ -33,7 +33,7 @@ output :
 
 Generate a 1500*500 black and white banner:
 
-`raw_image(width=1500, height=500)`
+`raw_image(width=1500, height=500, color=(0, 0, 0)`
 
 output :
 ![black and white image](examples/blackandwhite.png)
